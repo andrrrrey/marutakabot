@@ -1,0 +1,174 @@
+{
+  "title": "Тест по уходу за кожей",
+  "questions": [
+    {
+      "id": "age",
+      "text": "Возраст",
+      "options": [
+        "До 25",
+        "25-35",
+        "35-50",
+        "Старше 50"
+      ]
+    },
+    {
+      "id": "gender",
+      "text": "Пол",
+      "options": [
+        "Женский",
+        "Мужской"
+      ]
+    },
+    {
+      "id": "skin",
+      "text": "Ваша кожа",
+      "options": [
+        "Нездоровый цвет лица и тусклая кожа",
+        "Сухая, обезвоженная кожа, может шелушиться, чувство стянутости",
+        "Пигментные пятна, неровный цвет лица, веснушки",
+        "Потеря упругости и эластичности, поплывший овал лица",
+        "Расширенные поры, купероз, морщинки",
+        "Мимические морщины, «заломы» на коже, гусиные лапки",
+        "Постоянная жирность кожи, жирный блеск, акне или пост акне"
+      ]
+    },
+    {
+      "id": "sleep8",
+      "text": "Я сплю 8 часов в сутки",
+      "options": [
+        "Никогда",
+        "Периодически",
+        "Регулярно"
+      ]
+    },
+    {
+      "id": "stress",
+      "text": "Я испытываю стресс",
+      "options": [
+        "Никогда",
+        "Периодически",
+        "Регулярно"
+      ]
+    },
+    {
+      "id": "smoke",
+      "text": "Я курю",
+      "options": [
+        "Никогда",
+        "Периодически",
+        "Регулярно"
+      ]
+    },
+    {
+      "id": "sport",
+      "text": "Я занимаюсь спортом",
+      "options": [
+        "Никогда",
+        "Периодически",
+        "Регулярно"
+      ]
+    },
+    {
+      "id": "food",
+      "text": "Я питаюсь правильно",
+      "options": [
+        "Никогда",
+        "Периодически",
+        "Регулярно"
+      ]
+    },
+    {
+      "id": "cosmetologist",
+      "text": "Я хожу к косметологу",
+      "options": [
+        "Никогда",
+        "Периодически",
+        "Регулярно"
+      ]
+    }
+  ],
+  "results": [
+    {
+      "match": {
+        "age": "До 25"
+      },
+      "text": "Подборка рекомендаций по вашему возрасту:",
+      "links": [
+        "Аппарат для омоложения и очищения лица Salvador - https://marutaka.ru/salvador",
+        "Криопатчи для глаз Ice Patches For Eyes - https://marutaka.ru/ice_patches_for_eyes",
+        "Криосферы для глаз Ice Circle Patches - https://marutaka.ru/ice_circle_patches",
+        "Титановые криомассажеры для лица Ice Titan Sculpt - https://marutaka.ru/ice_circle_patches",
+        "Очищающие полотенца Magic Beauty Towel - https://marutaka.ru/polotenca_ochishchayushchie",
+        "Микротоковый массажер для лица Face Creator - https://marutaka.ru/face-creator"
+      ]
+    },
+    {
+      "match": {
+        "age": "25-35"
+      },
+      "text": "Подборка рекомендаций по вашему возрасту:",
+      "links": [
+        "Аппарат для омоложения и очищения лица Salvador - https://marutaka.ru/salvador",
+        "Микротоковый массажер для лица Face Creator - https://marutaka.ru/face-creator",
+        "Массажер для лица и тела Black Nephrite - https://marutaka.ru/black_nephrite",
+        "Аппарат для безинъекционной мезотерапии Black Panther - https://marutaka.ru/black-panther",
+        "Криомассажеры для лица Marutaka Ice Sculpt - https://marutaka.ru/ice_sculpt",
+        "Титановые криомассажеры для лица Ice Titan Sculpt - https://marutaka.ru/titan_sculpt",
+        "Криопатчи для глаз Ice Patches For Eyes - https://marutaka.ru/ice_patches_for_eyes",
+        "Криосферы для глаз Ice Circle Patches - https://marutaka.ru/ice_circle_patches",
+        "Очищающие полотенца Magic Beauty Towel - https://marutaka.ru/polotenca_ochishchayushchie"
+      ]
+    },
+    {
+      "match": {
+        "age": "35-50"
+      },
+      "text": "Подборка рекомендаций по вашему возрасту:",
+      "links": [
+        "Косметический аппарат для RF-лифтинга LUXE - https://marutaka.ru/luxe-smas-lifting",
+        "Аппарат для омоложения кожи век Physio Vision - https://marutaka.ru/physio_vision",
+        "Микротоковый массажер для лица Face Creator - https://marutaka.ru/face-creator",
+        "Аппарат для безинъекционной мезотерапии Black Panther - https://marutaka.ru/black-panther",
+        "Гуаша с натуральным нефритом Nephrite Face Stone - https://marutaka.ru/nephrite_face_stone_new",
+        "Массажер для лица и тела Black Nephrite - https://marutaka.ru/black_nephrite",
+        "Криомассажеры для лица Marutaka Ice Sculpt - https://marutaka.ru/ice_sculpt",
+        "Криопатчи для глаз Ice Patches For Eyes - https://marutaka.ru/ice_patches_for_eyes",
+        "Титановые криомассажеры для лица Ice Titan Sculpt - https://marutaka.ru/titan_sculpt",
+        "Аппарат для SMAS-лифтинга Space Intense - https://marutaka.ru/space_intense"
+      ]
+    },
+    {
+      "match": {
+        "age": "Старше 50"
+      },
+      "text": "Подборка рекомендаций по вашему возрасту:",
+      "links": [
+        "Косметический аппарат для RF-лифтинга LUXE - https://marutaka.ru/luxe-smas-lifting",
+        "Аппарат для омоложения кожи век Physio Vision - https://marutaka.ru/physio_vision",
+        "Аппарат для SMAS-лифтинга Space Intense - https://marutaka.ru/space_intense",
+        "Микротоковый массажер для лица Face Creator - https://marutaka.ru/face-creator",
+        "Гуаша с натуральным нефритом Nephrite Face Stone - https://marutaka.ru/nephrite_face_stone_new",
+        "Массажер для лица и тела Black Nephrite - https://marutaka.ru/black_nephrite",
+        "Титановые криомассажеры для лица Ice Titan Sculpt - https://marutaka.ru/titan_sculpt",
+        "Криомассажеры для лица Marutaka Ice Sculpt - https://marutaka.ru/ice_sculpt",
+        "Криопатчи для глаз Ice Patches For Eyes - https://marutaka.ru/ice_patches_for_eyes",
+        "Криосферы для глаз Ice Circle Patches - https://marutaka.ru/ice_circle_patches",
+        "Аппарат для безинъекционной мезотерапии Black Panther - https://marutaka.ru/black-panther"
+      ]
+    }
+  ],
+  "default_result": {
+    "text": "Подборка рекомендаций:",
+    "links": [
+      "Аппарат для омоложения и очищения лица Salvador - https://marutaka.ru/salvador",
+      "Микротоковый массажер для лица Face Creator - https://marutaka.ru/face-creator",
+      "Массажер для лица и тела Black Nephrite - https://marutaka.ru/black_nephrite",
+      "Аппарат для безинъекционной мезотерапии Black Panther - https://marutaka.ru/black-panther",
+      "Криомассажеры для лица Marutaka Ice Sculpt - https://marutaka.ru/ice_sculpt",
+      "Титановые криомассажеры для лица Ice Titan Sculpt - https://marutaka.ru/titan_sculpt",
+      "Криопатчи для глаз Ice Patches For Eyes - https://marutaka.ru/ice_patches_for_eyes",
+      "Криосферы для глаз Ice Circle Patches - https://marutaka.ru/ice_circle_patches",
+      "Очищающие полотенца Magic Beauty Towel - https://marutaka.ru/polotenca_ochishchayushchie"
+    ]
+  }
+}
